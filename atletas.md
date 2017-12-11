@@ -1,2 +1,2 @@
 # Melhores atletas
-Ayrton Senna
+Oscar Schmidt
